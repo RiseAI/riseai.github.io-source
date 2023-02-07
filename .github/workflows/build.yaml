@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Store PAT
-        run: echo "TOKEN=${{ secrets.TOKEN }}" >> $GITHUB_ENV
+        run: echo "PAT=${{ secrets.PAT }}" >> $GITHUB_ENV
 
       - name: Deploy the site
         uses: riseai/hugo-deploy-gh-pages@master
@@ -22,7 +22,7 @@ jobs:
           HUGO_EXTENDED: true
           TARGET_REPO: riseai/riseai.github.io
           TARGET_BRANCH: main
-          TOKEN: ${{ secrets.TOKEN }}
+          PAT: ${{ secrets.PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ACTOR: riseai
           CNAME: riseai.github.io
