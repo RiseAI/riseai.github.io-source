@@ -1,15 +1,15 @@
-name: Push to GitHub Pages on push to master
+name: Zhanwen: Push to GitHub Pages on push to main
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: Checkout main
         uses: actions/checkout@v1
 
       - name: Store PAT
