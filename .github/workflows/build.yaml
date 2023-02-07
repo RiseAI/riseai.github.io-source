@@ -1,4 +1,4 @@
-name: Zhanwen: Push to GitHub Pages on push to main
+name: "Zhanwen: Push to GitHub Pages on push to main"
 on:
   push:
     branches:
