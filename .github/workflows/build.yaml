@@ -21,7 +21,7 @@ jobs:
           HUGO_VERSION: 0.90.0
           HUGO_EXTENDED: true
           TARGET_REPO: riseai/riseai.github.io
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TOKEN: ${{ secrets.TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ACTOR: riseai
