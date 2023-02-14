@@ -1,7 +1,7 @@
 ---
 title: Weili Shi
 role: Ph.D. Student
-avatar_filename: ""
+avatar_filename: avatar.png
 interests:
   - Transformer
   - Domain Adaptation
@@ -12,6 +12,16 @@ social:
     link: rhs2rr@virginia.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=elyMqnoAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://github.com/DamoSWL
+    icon_pack: fab
+    icon: github
 organizations:
   - name: University of Virginia
 education:
