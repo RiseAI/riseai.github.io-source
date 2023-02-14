@@ -15,7 +15,7 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: B.S. in Computer Science
+    - course: B.A. in Computer Science & Statistics
       year: 2021
       institution: University of Virginia
 superuser: false
