@@ -5,17 +5,17 @@ avatar_filename: avatar.png
 social:
   - display:
       header: false
-    link: sheng.li@uga.EDU
+    link: shengli@virginia.edu
     icon_pack: fas
     icon: envelope
   - display:
       header: false
     link: https://scholar.google.com/citations?user=DEncVcYAAAAJ&hl=zh-CN
     icon_pack: ai
-    icon: google scholar
+    icon: google-scholar
   - display:
       header: false
-    link: https://cobweb.cs.uga.edu/~shengli/index.html
+    link: http://sheng-li.org/
     icon_pack: fas
     icon: home
 organizations:
