@@ -1,7 +1,7 @@
 ---
 title: Saed Rezayi
 role: Ph.D. Student
-avatar_filename: avatar
+avatar_filename: avatar.png
 interests:
   - Artificial Intelligence
   - Machine Learning
