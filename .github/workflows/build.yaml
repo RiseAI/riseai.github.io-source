@@ -20,7 +20,7 @@ jobs:
         env:
           HUGO_VERSION: 0.97.3
           HUGO_EXTENDED: true
-          TARGET_REPO: https://github.com/riseai/riseai.github.io
+          TARGET_REPO: riseai/riseai.github.io
           TARGET_BRANCH: main
           PAT: ${{ secrets.PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
