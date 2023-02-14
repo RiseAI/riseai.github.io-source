@@ -18,7 +18,7 @@ jobs:
       - name: Deploy the site
         uses: riseai/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.90.0
+          HUGO_VERSION: 0.97.3
           HUGO_EXTENDED: true
           TARGET_REPO: riseai/riseai.github.io
           TARGET_BRANCH: main
