@@ -21,6 +21,8 @@ design:
   columns: "1"
 ---
 <ul class="">
+
+<li>02/2023, Dr. Li will organize a tutorial Recent Advances in Visual Domain Adaptation and Generalization at <a href="<https://cvpr.thecvf.com/>" target="_blank">CVPR 2023</a>.</li>
 <li>01/2023, Three papers on fair graph learning, continual federated learning, and few-shot transfer learning are accepted at <a href="<https://iclr.cc/Conferences/2023>" target="_blank">ICLR 2023</a>.</li>
 
 <li>01/2023, One paper is accepted by Bioinformatics; One paper is accepted by JMIR AI.</li>
