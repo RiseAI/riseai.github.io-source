@@ -1,6 +1,6 @@
 ---
 title: Zerui (Zoe) Wang
-role: B.S. in Computer Science & Statistics
+role: B.A. in Computer Science & Statistics
 avatar_filename: avatar.png
 interests:
   - Machine Learning
