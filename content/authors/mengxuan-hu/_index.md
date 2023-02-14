@@ -1,7 +1,7 @@
 ---
 title: Mengxuan Hu
 role: Ph.D. Student
-avatar_filename: ""
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
