@@ -15,8 +15,8 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: B.A. in Mathematics
-      year: 2021
+    - course: B.A. in Mathematics (2021-2025)
+      year: ""
       institution: University of Virginia
 superuser: false
 user_groups:
