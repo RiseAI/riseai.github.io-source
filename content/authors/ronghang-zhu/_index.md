@@ -27,13 +27,13 @@ organizations:
   - name: University of Georgia
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2019-2024)
       institution: University of Georgia
       year: ""
-    - course: M.S. in Computer Science
+    - course: M.S. in Computer Science (2014-2017)
       institution: Sichuan University
       year: ""
-    - course: B.S. in Computer Science
+    - course: B.S. in Computer Science (2010-2014)
       institution: Sichuan University
       year: ""
 superuser: false
