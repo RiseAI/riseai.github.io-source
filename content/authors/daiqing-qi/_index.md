@@ -18,13 +18,13 @@ education:
   courses:
     - course: Ph.D. in Data Science
       institution: University of Virginia
-      year: 2020
+      year: ""
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2021
+      year: ""
     - course: B.S. in Electrionic Engineering
       institution: Southeast University
-      year: 2016
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
