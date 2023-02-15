@@ -29,13 +29,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2019
+      year: ""
     - course: M.S. in Computer Science
       institution: Sichuan University
-      year: 2017
+      year: ""
     - course: B.S. in Computer Science
       institution: Sichuan University
-      year: 2010
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
