@@ -26,16 +26,16 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: Ph.D. in Data Science
+    - course: Ph.D. in Data Science (2022-2026)
       institution: University of Virginia
-      year: 2022
-    - course: Ph.D. in Computer Science
+      year: -3
+    - course: Ph.D. in Computer Science(2021-2022)
       institution: University of Georgia
-      year: 2021
-    - course: M.S. Applied Physics
+      year: ""
+    - course: M.S. Applied Physics (2012-2014)
       institution: National University of Singapore
-      year: 2012
-    - course: B.S. Applied Physics
+      year: ""
+    - course: B.S. Applied Physics (2008-2012)
       institution: Northeastern University
       year: 2008
 superuser: false
