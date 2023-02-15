@@ -14,13 +14,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2022
+      year: ""
     - course: M.S. Computer Science
       institution: Imperial College London
-      year: 2020
+      year: ""
     - course: B.S. Information Management
       institution: Dalian University of Technology
-      year: 2016
+      year: ""
 email: ""
 superuser: false
 user_groups:
