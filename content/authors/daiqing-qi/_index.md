@@ -16,13 +16,13 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: Ph.D. in Data Science
+    - course: Ph.D. in Data Science (2022-2026)
       institution: University of Virginia
       year: ""
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2021-2022)
       institution: University of Georgia
       year: ""
-    - course: B.S. in Electrionic Engineering
+    - course: B.S. in Electrionic Engineering (2016-2020)
       institution: Southeast University
       year: ""
 superuser: false
