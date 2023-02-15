@@ -28,10 +28,10 @@ organizations:
   - name: University of Georgia
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2020-2025)
       institution: University of Georgia
       year: ""
-    - course: B.E. in Computer Science
+    - course: B.E. in Computer Science (2015-2019)
       institution: Harbin Institute of Technology
       year: ""
 superuser: false
