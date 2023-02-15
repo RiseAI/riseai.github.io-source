@@ -16,15 +16,15 @@ organizations:
   - name: University of Georgia
 education:
   courses:
-    - course: Ph.D. in Statistics
+    - course: Ph.D. in Statistics (2018-2023)
       institution: University of Georgia
-      year: 2018
-    - course: M.S. in Marine Sciences
+      year: ""
+    - course: M.S. in Marine Sciences (2015-2018)
       institution: University of Georgia
-      year: 2012
-    - course: B.S. in Physical Oceanography
+      year: ""
+    - course: B.S. in Physical Oceanography (2011-2015)
       institution: Nanjing University
-      year: 2011
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
