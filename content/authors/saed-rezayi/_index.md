@@ -35,12 +35,12 @@ organizations:
   - name: University of Georgia
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2018-2022)
       institution: University of Georgia
       year: 2019
-    - course: M.S. in Computer Science
+    - course: M.S. in Computer Science (2013-2017)
       institution: University of Oregon
-    - course: M.S. in Electrical Engineering
+    - course: M.S. in Electrical Engineering (2010-2012)
       institution: Amir Kabir University of Technology
 superuser: false
 user_groups:
