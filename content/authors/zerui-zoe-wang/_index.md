@@ -1,6 +1,6 @@
 ---
 title: Zerui (Zoe) Wang
-role: B.A. in Computer Science & Statistics
+role: B.A. in Mathematics
 avatar_filename: avatar.png
 interests:
   - Machine Learning
@@ -15,7 +15,7 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: B.A. in Computer Science & Statistics
+    - course: B.A. in Mathematics
       year: 2021
       institution: University of Virginia
 superuser: false
