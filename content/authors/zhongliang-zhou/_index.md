@@ -30,10 +30,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2020
+      year: ""
     - course: B.E. in Computer Science
       institution: Harbin Institute of Technology
-      year: 2015
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
