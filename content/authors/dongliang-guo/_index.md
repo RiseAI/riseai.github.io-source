@@ -20,10 +20,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2021
+      year: -2
     - course: B.S. in Software Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2016
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
