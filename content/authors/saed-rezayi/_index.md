@@ -37,7 +37,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science (2018-2022)
       institution: University of Georgia
-      year: 2019
+      year: ""
     - course: M.S. in Computer Science (2013-2017)
       institution: University of Oregon
     - course: M.S. in Electrical Engineering (2010-2012)
