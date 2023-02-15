@@ -33,16 +33,16 @@ education:
   courses:
     - course: Ph.D. in Data Science
       institution: University of Virginia
-      year: 2022
+      year: ""
     - course: Ph.D. in Computer Science
       institution: University of Georgia
-      year: 2021
+      year: ""
     - course: M.S. in Computer Science
       institution: Vanderbilt University
-      year: 2016
+      year: ""
     - course: B.A. in Economics
       institution: Vassar College
-      year: 2011
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
