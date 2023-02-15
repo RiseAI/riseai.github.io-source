@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. in Data Science (2022-2026)
       institution: University of Virginia
-      year: -3
+      year: ""
     - course: Ph.D. in Computer Science(2021-2022)
       institution: University of Georgia
       year: ""
@@ -37,7 +37,7 @@ education:
       year: ""
     - course: B.S. Applied Physics (2008-2012)
       institution: Northeastern University
-      year: 2008
+      year: ""
 superuser: false
 user_groups:
   - Ph.D. Students
