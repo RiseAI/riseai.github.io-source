@@ -34,13 +34,13 @@ education:
     - course: Ph.D. in Data Science (2022-2026)
       institution: University of Virginia
       year: ""
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2021-2022)
       institution: University of Georgia
       year: ""
-    - course: M.S. in Computer Science
-      institution: Vanderbilt University
+    - course: M.S. in Computer Science (2018-2019)
+      institution: "Vanderbilt University "
       year: ""
-    - course: B.A. in Economics
+    - course: B.A. in Economics (2012-2016)
       institution: Vassar College
       year: ""
 superuser: false
