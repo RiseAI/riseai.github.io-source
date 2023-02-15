@@ -18,10 +18,10 @@ organizations:
   - name: University of Georgia
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science (2021-2026)
       institution: University of Georgia
-      year: -2
-    - course: B.S. in Software Engineering
+      year: ""
+    - course: B.S. in Software Engineering (2016-2020)
       institution: University of Electronic Science and Technology of China
       year: ""
 superuser: false
