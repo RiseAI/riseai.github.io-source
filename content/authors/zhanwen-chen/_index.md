@@ -31,7 +31,7 @@ organizations:
   - name: University of Virginia
 education:
   courses:
-    - course: Ph.D. in Data Science
+    - course: Ph.D. in Data Science (2022-2026)
       institution: University of Virginia
       year: ""
     - course: Ph.D. in Computer Science
