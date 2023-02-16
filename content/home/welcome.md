@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: landing
 widget_id: "1"
 headless: true
 weight: 10
