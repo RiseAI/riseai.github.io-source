@@ -6,11 +6,11 @@ weight: 10
 title: Welcome to RISE Lab
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: 3b5a3488.jpg
 ---
 <br>
 
