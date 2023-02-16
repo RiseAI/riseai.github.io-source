@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: 3b5a3488.jpg
 ---
 <br>
 
