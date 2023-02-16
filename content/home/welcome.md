@@ -2,7 +2,7 @@
 widget: hero
 widget_id: "1"
 headless: true
-weight: 20
+weight: 10
 title: Welcome to RISE Lab
 hero_media: welcome.jpg
 design:
