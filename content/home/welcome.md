@@ -2,7 +2,7 @@
 widget: pages
 widget_id: "1"
 headless: true
-weight: 10
+weight: 20
 title: Welcome to RISE Lab
 hero_media: welcome.jpg
 design:
